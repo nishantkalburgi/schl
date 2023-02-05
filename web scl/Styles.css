@@ -1,0 +1,315 @@
+.Top{
+    background: url("school_pics/aprps-e92uz.jpg");
+    background-repeat: no-repeat;
+    size: 100%;
+    height: 52rem;
+    width: 100%;
+    margin: none;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    
+}
+
+.Mschl{
+    margin-top: 0;
+    font-size: 6rem;
+    font-family: 'Sacramento', cursive;
+    color: #E9E8E8;
+    text-align: center;
+    position: relative;
+    top: 13rem;
+}
+
+.subt{
+    font-family:'Merriweather', serif;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 10rem;
+    font-size: 2.4rem;
+}
+
+.dtop{
+    scroll-behavior: smooth;
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+.principal{
+    width: 32%;
+    height: 25%;
+    padding-left: 3rem;
+    padding-top: 1rem;
+    float: left;
+}
+
+.abh{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    bottom: 2.5rem;
+}
+
+.indtp{
+    background-color: lightgray;
+}
+
+.abschl{
+    width: 39%;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    float: left;
+}
+
+.Abtschl{
+    font-family: 'Montserrat', sans-serif; 
+    width: 44%;
+    position: absolute;
+    right: 10.20rem;
+    font-size: 1.4rem;
+    line-height: 2;
+    background-color: lightgray;
+    padding-left:3rem ;
+    padding-top: 18px;
+    padding-bottom: 2px;
+    margin-top: 1rem;
+    
+}
+
+.princ{
+    position: relative;
+    top: 24rem;
+    right: 34rem;
+}
+
+.abhm{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    left: 12rem;
+    top: 1.6rem;
+}
+
+.princiinf{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1.4rem;
+    width: 55%;
+    float: right;
+    position: relative;
+    left: 30rem;
+    bottom: 20.5rem;
+    line-height: 2;
+}
+
+.mhad{
+    text-align: center;
+    position: relative;
+    bottom: 8rem;
+    padding-bottom: none;
+    margin-bottom: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 3rem;
+}
+
+.imglo{
+    padding-bottom: none;
+    margin-bottom: none;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+    
+}
+
+.top{
+    padding-top: none;
+    margin-top: none;
+}
+
+.first{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.infrah{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
+}
+
+.infra{
+    text-align: center;
+    position: relative;
+    left: 58rem;
+    top: 6rem;
+}
+
+.scilab{
+    float: left;
+    width: 33%;
+    position: relative;
+    right:14rem;
+    top: 2rem;
+    height: 30%;
+    padding-bottom: 2rem;
+    background-color: aliceblue;
+}
+
+.scip{
+    font-size: 1.3rem;      
+    float: left;
+    width: 33.5%;
+    position: relative;
+    right: 42rem;
+    top: 4rem;
+    text-align: left;
+    line-height: 1.4;
+    font-family: 'Montserrat', sans-serif; 
+    background-color:aliceblue ;
+    padding-bottom: 0.6rem;
+}
+
+.lib{
+    width: 33.5%;
+    float: right;
+    position: relative;
+    right: 30rem;
+    bottom: 16rem;
+    background-color: aliceblue;
+}
+
+.libp{
+    font-size: 1.3rem;
+    width: 33.5%;
+    position: relative;
+    right: 30rem;
+    bottom: 17.5rem;
+    float: right;
+    line-height: 1.4;
+    font-family: 'Montserrat', sans-serif; 
+    text-align: left;
+    background-color: aliceblue;
+    padding-bottom: 1rem;
+}
+
+
+.event{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    position: relative;
+    top: 50rem;
+    right: 12rem;
+
+}
+
+.yoga{
+    width: 30%;
+    position: relative;
+    top: 20rem;
+    float: left;
+    right: 18rem;
+    padding-bottom: 4rem;
+}
+
+.yogap{
+      font-size: 1.5rem;
+      text-align: left;
+      float: left;
+      position: relative;
+      right:36rem;
+      top: 40rem; 
+    }
+
+    .repub{
+        width: 35%;
+        position: relative;
+        float: left;
+        top: 20rem;
+        right: 16rem;
+    }
+
+    .respa{
+        font-size: 1.5rem;
+        text-align:center;
+        position: relative;
+        top: 77rem;
+        right: 10rem;
+    }
+
+    .hind{
+        width: 25%;
+        position: relative;
+        top: 4rem;
+        left: 14rem;
+    }
+
+    .hindi{
+        font-size: 1.5rem;
+        position: relative;
+        right: 2rem;
+        top: 8rem;
+    }
+
+.vid{
+    position: relative;
+    top: 15rem;
+    float: left;
+    left: 10rem;
+}
+
+.pars{
+    font-size: 1.2rem;
+    position: relative;
+    text-align: left;
+    top: 42rem;
+    right: 13rem;
+    width: 55%;
+    /* left: 0.5rem; */
+    line-height: 1.4;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.footer{
+    background-color:#66bfbf;
+    width: 100%;
+    position: relative;
+    left: 30rem;
+    top: 55rem;
+    height: 14rem;
+    width: 100rem
+}
+
+.btn{
+    text-decoration: none;
+    color: #11999e;
+    font-size: 1.5rem;
+    padding: 3rem;
+    margin: 3rem;
+    padding-top: 2rem;
+    position: relative;
+    top: 3rem;
+    text-align: center;
+    right: 8rem;
+}
+
+.copyright{
+    font-size: 1.8rem;
+    color: white;
+    position: relative;
+    top: 5rem;
+    left: 10rem;
+}
+
+.btn:hover{
+    color: white;
+    text-decoration: underline;
+}
+
